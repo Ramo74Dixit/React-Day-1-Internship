@@ -37,7 +37,7 @@ const Navbar = ({cart,showCart,setShowCart}) => {
       >
         <input
           type="text"
-          placeholder="Search products..."
+          placeholder="Bhai kuch bhi search kr le..."
           style={{
             width: "350px",
             border: "none",
